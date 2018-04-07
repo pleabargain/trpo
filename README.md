@@ -1,3 +1,5 @@
+## this repo is missing the src logs so it does not work out of the box.
+
 ## Proximal Policy Optimization with Generalized Advantage Estimation
 
 By Patrick Coady: [Learning Artificial Intelligence](https://learningai.io/)
